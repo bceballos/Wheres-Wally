@@ -1,0 +1,4 @@
+﻿  WheresWally.cpp
+c:\users\brenn\onedrive\desktop\whereswally\whereswally\whereswally\whereswally.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\brenn\onedrive\desktop\whereswally\whereswally\whereswally\whereswally.cpp(158): warning C4018: '>': signed/unsigned mismatch
+  WheresWally.vcxproj -> C:\Users\brenn\OneDrive\Desktop\WheresWally\WheresWally\Debug\WheresWally.exe

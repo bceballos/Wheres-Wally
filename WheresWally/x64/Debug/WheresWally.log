@@ -1,0 +1,11 @@
+﻿  Image.cpp
+  LargeImage.cpp
+  MatchPos.cpp
+  RWFunc.cpp
+  RefImage.cpp
+  WheresWally.cpp
+  Generating Code...
+c:\users\brenn\onedrive\documents\whereswally-project\whereswally\image.cpp(92): warning C4172: returning address of local variable or temporary: holder
+c:\users\brenn\onedrive\documents\whereswally-project\whereswally\image.cpp(113): warning C4172: returning address of local variable or temporary: holder
+c:\users\brenn\onedrive\documents\whereswally-project\whereswally\image.cpp(79): warning C4172: returning address of local variable or temporary: holder
+  WheresWally.vcxproj -> C:\Users\brenn\OneDrive\Documents\WheresWally-Project\x64\Debug\WheresWally.exe
